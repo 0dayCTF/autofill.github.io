@@ -1,7 +1,7 @@
 # Autofill Phishing
 
 # Try it yourself!
-[https://autofill-danger.netlify.app](https://autofill-danger.netlify.app)
+[https://autofill-danger-1.netlify.app](https://autofill-danger-1.netlify.app)
 
 ## PoC Video
 https://www.instagram.com/reel/C9DTe87OrTH/
